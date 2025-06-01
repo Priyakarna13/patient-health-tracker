@@ -106,6 +106,4 @@ We welcome contributions! Feel free to fork the repo, open issues, or submit pul
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License 
